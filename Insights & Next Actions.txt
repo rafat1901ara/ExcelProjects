@@ -1,0 +1,12 @@
+INSIGHTS 					
+1	In the month of March Highest sales have took place with total oders of 2819 with a total sum of 1928066				
+2	Between Men and Women , Women does more shopping than Men (Women are more likely to buy than men ~65%)				
+3	In 2022 Order status shows that more items are being delevered , from the data it is 28641 orders have been delivered the most				
+4	Maharashtra has the highest number of sales in 2022 followed by Karnataka and UttarPradesh (Maharshtra,Karnaraka and UP are to 3 states `35%)				
+5	Adults have contributed more towards sales in both men and women category (Adult age group 30-49yrs contributing more ~50% )				
+6	Amazon contributed the highest sales in 2022 followed by Myntra and Flipkart ~80%				
+7	For Set category we got the highest number of sales 				
+					
+					
+NEXT ACTION					
+Target Women customers of age 30-49 yrs old living in maharashtra, karnataka, UP by showing ads/copouns/offers available in Amazon,Flipkart,Myntra to increase 2023 Sales 				
